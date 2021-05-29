@@ -32,7 +32,7 @@ Click the below button to watch the video tutorial on deploying
 
 <b> Deploy to Heroku </b>
 [![tamilbot logo](https://telegra.ph/file/6babc0f95a5362fd27872.jpg)](https://heroku.com/deploy?template=https://github.com/TamilBots/TamilVcBot)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TAMILBOTS/TAMILVCBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xbhinav/TamilVcBot.git)
 
 - Enable the worker after deploy the project to Heroku
 - send `!ping`, `!uptime`, or `!sysinfo` from userbot account itself or its contacts to check if the userbot is running or not.
